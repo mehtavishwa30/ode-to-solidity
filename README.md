@@ -1,3 +1,3 @@
-# AN ODE TO SOLIDITY
+# AN ODE TO SOLIDITY 0.8
 
-A brief primer to Solidity that celebrates the most powerful Solidity features
+A brief primer to Solidity 0.8 that celebrates some interesting features from the latest releases
